@@ -2,9 +2,8 @@
   Hi, I'm Willow!
 </h2>
 <h4 align="center">
-  Your Friendly Neighbourhood Theoretical Physicist
+  Your Friendly Neighbourhood Witch
 </h4>
+If you don't know me already, I'm a Theoretical & Computational Physicist in the UK. I mainly work in computational materials science (DFT, Monte Carlo etc.). I also enjoy tinkering with servers, playing tabletop games, and making things.
 
-Welcome to my *personal* GitHub page! If you don't know me already, I'm a Theoretical & Computational Physicist ^-^ I've recently finished a Master's degree with a heavy focus on gravitational quadrupoles. Without going into too much detail, those are the dominant source of gravitational waves and so they're quite important. I'm now off doing other sciencey stuff, which you can find elsewhere.
-
-Most of the stuff here is either work from my degree or pet projects. Feel free to take a look if you're interested!
+Most of the stuff here is pet projects, work stuff can be found elsewhere. Feel free to take a look if you're interested!
